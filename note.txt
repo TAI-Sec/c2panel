@@ -1,0 +1,15 @@
+### Last Action Performed:
+Implemented the File Manager with full CRUD (Create, Read, Update, Delete) and edit capabilities. Fixed several bugs in both the Python client and the PHP agent.
+
+### Got Some motherfucking bugs in payload generator  section so i temporary disable it.
+
+### Fuck got one more bug in connection handler..
+Alright MF fixed ready to Go ..
+
+### In next Update we implement Firewall or Av detection bypass payloads and connection handler.
+In version 0.3 
+
+### FUCK by mistake i delete the main script ...
+ok, i Recovered the main script
+
+ 
